@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+remote_theme : mmistakes/minimal-mistakes
+
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "ko-KR"
+title                    : "Juttiee Github TITLE"
+title_separator          : "-"
+name                     : "Dolephin"
+description              : "An amazing website."
+url                      : "https://juttiee.github.io"
+baseurl                  : ""
