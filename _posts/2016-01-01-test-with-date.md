@@ -1,5 +1,5 @@
 ---
-title: "Test without date"
+title: "Test with date"
 date: 2016-01-01 08:26:28 -0900
 categories: notice
 ---
