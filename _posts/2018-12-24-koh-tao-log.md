@@ -1,6 +1,7 @@
 ---
 title: "2018 Koh Tao Log"
 date: 2018-12-30 08:26:28 +0900
+permalink: /entry/2018-kohtao-log/
 categories: [travel, 2018 Koh Tao]
 tags: [hot, summer, diving]
 ---
