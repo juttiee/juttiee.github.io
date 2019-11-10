@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 title_separator          : "-"
 name                     : "Dolephin"
 description              : "An amazing website."
-url                      : "https://juttiee.github.io"
+url                      : "https://dolephin.com"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
